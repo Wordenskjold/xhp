@@ -1,0 +1,15 @@
+{
+    "name": "facebook/xhp",
+    "type": "library",
+    "description": "XHP is a PHP extension which augments the syntax of the language such that XML document fragments become valid PHP expressions",
+    "version": "1.0",
+    "minimum-stability": "dev",
+    "homepage": "https://github.com/facebook/xhp",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Stefan Parker",
+            "email": "scp@fb.com"
+        }
+    ]
+}
