@@ -3,6 +3,7 @@
     "type": "library",
     "description": "XHP is a PHP extension which augments the syntax of the language such that XML document fragments become valid PHP expressions",
     "homepage": "https://github.com/facebook/xhp",
+    "version": "dev-master",
     "license": "Apache-2.0",
     "authors": [
         {
